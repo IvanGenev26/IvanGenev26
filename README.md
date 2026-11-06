@@ -12,7 +12,7 @@
 - 🐧 Into how the OS actually works: shells, processes, memory
 - 🛡️ Especially interested in the security side of low-level code
 - 🃏 Off-keyboard: reading and Magic: The Gathering
-- 📖 Currently reading: *Mastery*
+- 📖 Currently reading: *The hobbit*
 
 ### 🔨 What I'm building
 | Project | What it is | Stack |
